@@ -1,16 +1,14 @@
-### Hi there 👋
+# ✨ Hi there! ✨
 
-<!--
-**Noxor11/Noxor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brian Da Silva, a C++ and Java developer with interest in learning how to further improve performance in any kind of application, as well as the inner workings of the programming languages I use.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any fun project!
+- 😄 Pronouns: He / they
+- ⚡ Age: 19 
+
+
+<hr/>
+
+Contact : brianjose2010@gmail.com
