@@ -6,7 +6,7 @@ My name is Brian Da Silva, a C++ and Java developer with interest in learning ho
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on any fun project!
 - 😄 Pronouns: He / they
-- ⚡ Age: 19 
+- ⚡ Age: 20
 
 
 <hr/>
