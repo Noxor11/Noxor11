@@ -8,6 +8,10 @@ My name is Brian Da Silva, a C++ and Java developer with interest in learning ho
 - 😄 Pronouns: He / they
 - ⚡ Age: 20
 
+![Brian Da Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxor11&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxor11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
